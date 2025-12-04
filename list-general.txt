@@ -197,3 +197,8 @@ secure.footprint.net
 secure.llnwd.net
 roblox.qq.com
 roblox.cn
+css.rbxcdn.com
+js.rbxcdn.com
+ecsv2.roblox.com
+realtime-signalr.roblox.com
+tr.rbxcdn.com
